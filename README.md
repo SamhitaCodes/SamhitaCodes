@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently studying at the National Institute of Engineering, Mysuru
+- 🌱 I’m currently learning the basics of programming and software engineering
+- 👯 I’m looking to explore the latest tools available on the GitHub to enhance my skills
